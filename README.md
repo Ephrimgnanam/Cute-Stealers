@@ -16,7 +16,7 @@ This repository is **for educational and research purposes only**. The intent is
 
 This repository was created for:
 
-- Learning how RATs work internally for defensive programming.
+- Learning how Stealers work internally for defensive programming.
 - Reverse-engineering and malware analysis practice.
 - Building better endpoint protection systems.
 - Teaching cybersecurity concepts in ethical hacking and digital forensics courses.
